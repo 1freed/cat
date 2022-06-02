@@ -109,15 +109,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "搜狐视频",
-      "name": "搜狐视频     ",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/sohu/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
 {"key":"csp_biubiu_骚火电影","name":"🥒老姜家人专用接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/骚火电影.json"},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/COKEMV.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"🥒真不卡影院(不支持搜索)(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/真不卡影院(不支持搜索).json"},
