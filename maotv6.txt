@@ -2,12 +2,57 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider": "http://fj365.ml/bb/xb.txt?raw=true",
 "sites":[
-//{"key":"csp_xpath_saohuotv","name":"骚火电影(XP)022/5/29更新接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
+//{"key":"csp_xpath_saohuotv","name":"老姜家人专用接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
+{
+      "key": "LiteApple",
+      "name": "小苹果(SP)",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
       "key": "csp_77",
       "name": "77(SP)",
       "type": 3,
       "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "csp_Cokemv",
+      "name": "焦炭（SP）",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CZSPP",
+      "name": "厂长(SP)",
+      "type": 3,
+      "api": "csp_CZSPP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Fantuan",
+      "name": "饭团(SP)",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Buka",
+      "name": "不卡(SP)",
+      "type": 3,
+      "api": "csp_Buka",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
