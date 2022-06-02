@@ -1,5 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
+//"spider": "https://github.com/1freed/cat/raw/main/custom_spider.jar",
 //"spider": "http://fj365.ml/bb/xb.txt?raw=true",
 "sites":[
 //{"key":"csp_xpath_saohuotv","name":"老姜家人专用接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
