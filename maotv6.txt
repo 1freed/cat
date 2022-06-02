@@ -70,45 +70,6 @@
       "filterable": 0
     },
 {"key":"csp_DiDuan","name":"低端(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"ikan_spider","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_kmys","name":"酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Auete2.json"},
-{
-      "key": "优酷视频",
-      "name": "优酷视频     ",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "爱奇艺",
-      "name": "爱奇艺     ",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "腾讯视频",
-      "name": "腾讯视频     ",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "芒果TV",
-      "name": "芒果TV     ",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
 {"key":"csp_biubiu_骚火电影","name":"🥒老姜家人专用接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/骚火电影.json"},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/COKEMV.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"🥒真不卡影院(不支持搜索)(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/真不卡影院(不支持搜索).json"},
