@@ -1,8 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
-//"spider": "https://github.com/1freed/cat/raw/main/custom_spider.jar",
+//"spider": "https://github.com/1freed/cat/raw/main/custom_spider.jar?raw=true",
 //"spider": "http://fj365.ml/bb/xb.txt?raw=true",
 "sites":[
 //{"key":"csp_xpath_saohuotv","name":"老姜家人专用接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
@@ -91,8 +89,8 @@
     },
 {"key":"csp_DiDuan","name":"低端(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_xpath_88kanqiu","name": "球赛直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/flying-guys/jar/raw/branch/master/xpath/88kanqiu.json"},
-{"key":"csp_biubiu_骚火电影","name":"🥒老姜家人专用接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jych6.coding.net/p/cat/d/C/git/tree/master/骚火电影.json"},
-{"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jych6.coding.net/p/cat/d/C/git/tree/master/COKEMV.json"},
+{"key":"csp_biubiu_骚火电影","name":"🥒老姜家人专用接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/骚火电影.json"},
+{"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/COKEMV.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"🥒真不卡影院(不支持搜索)(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/真不卡影院(不支持搜索).json"},
 {"key":"csp_biubiu_555资源","name":"🥒555资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/555资源.json"},
 {"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/555电影.json"},
