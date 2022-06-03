@@ -790,6 +790,7 @@
 
   "wallpaper": "",
 
-  "spider": "https://github.com/1freed/cat/raw/main/xm.jar"
+  "spider": "https://github.com/1freed/cat/raw/main/xm.jar",
+  "spider": "https://github.com/1freed/cat/raw/main/custom_spider.jar"
 
 }
