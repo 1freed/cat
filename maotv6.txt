@@ -1,5 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
+"spider": "https://github.com/1freed/cat/blob/main/custom_spider.jar?raw=true",
 "spider": "https://gitee.com/catvod88/Spider/blob/master/jar/custom_spider.jar?raw=true;md5;e43a84197bf0dcac50990fbc7f2ca470",
 "spider": "https://gitee.com/catvod88/cat/raw/main/xb.zip?raw=true",
 "sites":[
