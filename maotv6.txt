@@ -3,8 +3,7 @@
 "spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar",
 "spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
 "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true;md5;e43a84197bf0dcac50990fbc7f2ca470",
-"spider": "https://github.com/1freed/cat/raw/main/custom_spider.jar?raw=true",
-"spider": "http://fj365.ml/bb/xb.txt?raw=true",
+"spider": "https://github.com/1freed/cat/blob/main/baikan.jar?raw=true",
 "sites":[
 //{"key":"csp_xpath_saohuotv","name":"老姜家人专用接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
 {
