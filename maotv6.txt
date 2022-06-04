@@ -1,7 +1,8 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider": "https://raw.githubusercontent.com/1freed/CatVodTVSpider/master/jar/custom_spider.jar?raw=true;md5;e43a84197bf0dcac50990fbc7f2ca470",
-"spider": "https://github.com/1freed/cat/raw/main/xb.zip?raw=true",
+"spider": "https://raw.githubusercontent.com/1freed/cat/main/xm.jar?raw=true",
+"spider": "https://raw.githubusercontent.com/1freed/cat/main/xb.zip?raw=true",
 "sites":[
 {"key":"csp_xpath_saohuotv","name":"老姜家人专用接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
 {
