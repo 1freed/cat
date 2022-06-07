@@ -82,8 +82,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-
-{
+    {
       "key": "优酷视频",
       "name": "优酷视频     ",
       "type": 0,
@@ -1541,7 +1540,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    
     {
       "key": "push_agent",
       "name": "推送",
@@ -1552,7 +1550,7 @@
       "filterable": 0
     }
   ],
-"lives": [
+  "lives": [
     {
       "group": "redirect",
       "channels": [
@@ -1960,6 +1958,41 @@
           "哔哩"
         ]
       }
+    },
+    {
+      "name": "专用1",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url="
+    },
+    {
+      "name": "专用2",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="
+    },
+    {
+      "name": "专用4",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="
+    },
+    {
+      "name": "专用6",
+      "type": 1,
+      "url": "https://api.qq755758836.xyz/295m3u8.php?url="
+    },
+    {
+      "name": "猫群专用4",
+      "type": 0,
+      "url": "https://play.tkys.tv/jh/longteng.php/?url="
+    },
+    {
+      "name": "猫群专用6",
+      "type": 1,
+      "url": "https://api.parwix.com:4433/analysis/json/?uid=556&my=acfhjoprtuvxKLMQ12&url="
+    },
+    {
+      "name": "猫群专用7",
+      "type": 1,
+      "url": "https://ysjx.jikezhuji.com/api/?key=80gdewY7tQriIwA6hw&url="
     },
     {
       "name": "夜幕",
