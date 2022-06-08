@@ -99,24 +99,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_kuaikan",
-      "name": "👀快看(SP)",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Dy1990",
-      "name": "1990电影(SP)",
-      "type": 3,
-      "api": "csp_DY1990",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    
     {
       "key": "官采",
       "name": "011--官采",
@@ -156,25 +139,7 @@
       "filterable": 1,
       "ext": "http://mkk.gotka.top/api.php/v1.vod"
     },
-    {
-      "key": "v2_团夕",
-      "name": "团夕(V2)",
-      "type": 3,
-      "api": "csp_AppYs2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.kan365.xyz/api.php/app/"
-    },
-    {
-      "key": "360",
-      "name": "360",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "优酷视频",
       "name": "015--优酷视频     ",
