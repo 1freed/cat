@@ -126,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/1freed/6xb/raw/master/MaooXP/360.json"
+      "ext": "https://github.com/1freed/6xb/raw/master/MaooXP/360.bmp"
     },
     {
       "key": "csp_AppYsV2_看365",
