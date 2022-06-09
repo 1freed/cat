@@ -119,24 +119,14 @@
       "ext": "http://chaorenbb.com/api.php/v1.vod"
     },
     {
-      "key": "csp_苹果CMS",
-      "name": "苹果CMS",
+      "key": "360",
+      "name": "360",
       "type": 3,
-      "api": "csp_苹果CMS",
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-      "ext": "http://phoebe.cf/api.php/iptv/vod/"
-    },
-    {
-      "key": "csp_苹果CMS",
-      "name": "苹果CMS-2",
-      "type": 3,
-      "api": "csp_苹果CMS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      "ext": "http://107.150.5.146:39000/maccms10-main/api.php"
+      "filterable": 1,
+      "ext": "https://github.com/1freed/6xb/raw/master/MaooXP/360.json"
     },
     {
       "key": "csp_AppYsV2_看365",
