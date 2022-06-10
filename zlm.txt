@@ -87,25 +87,23 @@
 {"key":"csp_Juhi","name":"剧嗨(SP)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(SP)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
- {
+  {
       "key": "csp_苹果CMS",
       "name": "苹果CMS",
       "type": 3,
-      "api": "csp_苹果CMS",
+      "api": "http://phoebe.cf/api.php/iptv/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-      "ext": "http://phoebe.cf/api.php/iptv/vod/"
     },
     {
       "key": "csp_苹果CMS",
       "name": "苹果CMS-2",
       "type": 3,
-      "api": "csp_苹果CMS",
+      "api": "http://107.150.5.146:39000/maccms10-main/api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-      "ext": "http://107.150.5.146:39000/maccms10-main/api.php"
     },
 {
       "key": "360_spider",
