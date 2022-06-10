@@ -81,39 +81,9 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {"key":"wabc(爱奇艺直采)","name":"wabc(爱奇艺直采)(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},
+    
 {"key":"csp_biubiu_特狗影视","name":"🥒特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/TouchFish/OneClickRun/raw/master/MeowXB/特狗影视.json"},
-{"key":"csp_Imaple","name":"枫林网(SP)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Juhi","name":"剧嗨(SP)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Jumi","name":"剧迷(SP)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-  {
-      "key": "csp_苹果CMS",
-      "name": "苹果CMS",
-      "type": 3,
-      "api": "http://phoebe.cf/api.php/iptv/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_苹果CMS",
-      "name": "苹果CMS-2",
-      "type": 3,
-      "api": "http://107.150.5.146:39000/maccms10-main/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-{
-      "key": "360_spider",
-      "name": "📺360(官源)",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "在线之家(SP)",
       "name": "009--在线之家",
