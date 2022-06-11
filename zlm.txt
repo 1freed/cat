@@ -414,7 +414,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/huya2.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/huya2.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -424,7 +424,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://fj365.ml/6/kuqimv.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/kuqimv.json"
     },
     {
       "key": "csp_xpath_6d",
@@ -434,7 +434,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/6d.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/6d.json"
     },
     {
       "key": "csp_xpath_zxzj2",
@@ -444,7 +444,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/zxzj2.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/zxzj2.json"
     },
     {
       "key": "csp_xpath_doujiaow",
@@ -454,7 +454,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/doujiaow.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/doujiaow.json"
     },
     {
       "key": "csp_xpath_ddg",
@@ -464,7 +464,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/dadagui.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/dadagui.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -474,7 +474,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/jubaibai.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/jubaibai.json"
     },
     {
       "key": "csp_xpath_348z",
@@ -484,7 +484,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/348z.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/348z.json"
     },
     {
       "key": "csp_xpath_ttsp",
@@ -494,7 +494,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/ttsp.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/ttsp.json"
     },
     {
       "key": "csp_xpath_jpys",
@@ -504,7 +504,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/jpys.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/jpys.json"
     },
     {
       "key": "csp_xpath_dmntv",
@@ -514,7 +514,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/dmntv.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/dmntv.json"
     },
     {
       "key": "csp_xpath_dmw",
@@ -524,7 +524,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/dmw.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/dmw.json"
     },
     {
       "key": "csp_xpath_huohuo99",
@@ -534,7 +534,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://fj365.ml/6/huohuo99.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/huohuo99.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -544,7 +544,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/6/dm84.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/dm84.json"
     },
     {
       "key": "csp_yinghua",
@@ -554,7 +554,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/6/yinghua2.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/yinghua2.json"
     },
     {
       "key": "csp_xpath_tjyy",
@@ -564,7 +564,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/6/huigutongying.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/huigutongying.json"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -574,7 +574,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/6/lezhutv.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/lezhutv.json"
     },
     {
       "key": "csp_xpath_pianba",
@@ -584,7 +584,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/6/pianba.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/pianba.json"
     },
     {
       "key": "csp_xpath_duboku",
@@ -594,7 +594,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/6/duboku2.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/duboku2.json"
     },
     {
       "key": "csp_biubiu_在线之家",
@@ -604,7 +604,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/在线之家.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/在线之家.json"
     },
     {
       "key": "csp_biubiu_乐猪影视",
@@ -614,7 +614,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/乐猪影视.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/乐猪影视.json"
     },
     {
       "key": "csp_biubiu_口袋影院",
@@ -624,7 +624,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/口袋影院.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/口袋影院.json"
     },
     {
       "key": "csp_biubiu_真不卡影院(不支持搜索)",
@@ -634,7 +634,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/真不卡影院(不支持搜索).json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/真不卡影院(不支持搜索).json"
     },
     {
       "key": "csp_biubiu_完美看看影视",
@@ -644,7 +644,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/完美看看影视.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/完美看看影视.json"
     },
     {
       "key": "csp_biubiu_9亿资源",
@@ -654,7 +654,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/9亿资源.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/9亿资源.json"
     },
     {
       "key": "csp_biubiu_六度TV",
@@ -664,7 +664,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/六度TV.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/六度TV.json"
     },
     {
       "key": "csp_biubiu_花猫TV",
@@ -674,7 +674,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/花猫TV.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/花猫TV.json"
     },
     {
       "key": "csp_biubiu_如如影视",
@@ -684,7 +684,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/如如影视.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/如如影视.json"
     },
     {
       "key": "csp_biubiu_348电影网",
@@ -694,7 +694,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/348电影网.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/348电影网.json"
     },
     {
       "key": "csp_biubiu_奇优影院（不支持搜）",
@@ -704,7 +704,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/奇优影院（不支持搜）.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/奇优影院（不支持搜）.json"
     },
     {
       "key": "csp_biubiu_飘花播播",
@@ -714,7 +714,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/飘花播播.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/飘花播播.json"
     },
     {
       "key": "csp_biubiu_豆角网",
@@ -724,7 +724,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/豆角网.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/豆角网.json"
     },
     {
       "key": "csp_biubiu_尘落影院",
@@ -734,7 +734,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/尘落影院.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/尘落影院.json"
     },
     {
       "key": "csp_biubiu_影视工厂",
@@ -744,7 +744,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/影视工厂.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/影视工厂.json"
     },
     {
       "key": "csp_biubiu_剧白白-蓝光",
@@ -754,7 +754,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/剧白白-蓝光.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/剧白白-蓝光.json"
     },
     {
       "key": "csp_biubiu_火火影视",
@@ -764,7 +764,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/火火影视.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/火火影视.json"
     },
     {
       "key": "csp_biubiu_达达龟",
@@ -774,7 +774,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/达达龟.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/达达龟.json"
     },
     {
       "key": "csp_biubiu_思乐影视",
@@ -784,7 +784,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/思乐影视.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/思乐影视.json"
     },
     {
       "key": "csp_biubiu_VIP电影院",
@@ -794,7 +794,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/VIP电影院.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/VIP电影院.json"
     },
     {
       "key": "csp_biubiu_看一看影视",
@@ -804,7 +804,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/看一看影视.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/看一看影视.json"
     },
     {
       "key": "csp_biubiu_乌龟影院",
@@ -814,7 +814,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/乌龟影院.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/乌龟影院.json"
     },
     {
       "key": "csp_biubiu_爱港剧",
@@ -824,7 +824,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/爱港剧.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/爱港剧.json"
     },
     {
       "key": "csp_biubiu_23影院",
@@ -834,7 +834,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/23影院.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/23影院.json"
     },
     {
       "key": "csp_biubiu_创艺影视",
@@ -844,7 +844,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/创艺影视.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/创艺影视.json"
     },
     {
       "key": "csp_biubiu_city电影",
@@ -854,7 +854,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/city电影.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/city电影.json"
     },
     {
       "key": "csp_biubiu_电影馆",
@@ -864,7 +864,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://fj365.ml/bb/电影馆.json"
+      "ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/电影馆.json"
     },
     {
       "key": "csp_appysv2_余生影视",
@@ -2173,5 +2173,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080",
-  "spider": "https://gitea.com/mingang/FB/raw/branch/main/MG0608.txt?raw=ture"
+  "spider": "clan://cat/MG0608.txt"
 }
