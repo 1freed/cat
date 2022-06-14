@@ -2100,5 +2100,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080",
-  "spider": "clan://cat/MG0608.txt"
+  "spider": "https://gitea.com/mingang/FB/raw/branch/main/MG0608.txt?raw=ture"
 }
